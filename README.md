@@ -1,0 +1,1 @@
+# aws-ssm-managed-gcp-instances
